@@ -11,6 +11,7 @@ No Activity tracked this Week
  
 - 🔭 I’m currently working on **pontowork**
 - 🌱 I’m currently learning React.JS
+- 💬 Ask me about **Javascript**, **Typescript**, **C/C++**
 
 <!--
 **thamelodev/thamelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
