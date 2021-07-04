@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Julimar Melo ![githubfollowers](https://img.shields.io/github/followers/thamelodev?logo=Github&style=social)
+### Hi there 👋, I'm Julimar Melo 
 
+#### ![githubfollowers](https://img.shields.io/github/followers/thamelodev?logo=Github&style=social)
 ![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamelodev&show_icons=true&theme=gruvbox)
 
 <!--START_SECTION:waka-->
