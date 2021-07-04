@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Julimar Melo 
+## Hi there 👋, I'm Julimar Melo
+
+Love açai with passion fruit 🧁
 
 #### ![githubfollowers](https://img.shields.io/github/followers/thamelodev?logo=Github&style=social)
 ![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamelodev&show_icons=true&theme=gruvbox)
