@@ -2,6 +2,9 @@
 
 ![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamelodev&show_icons=true&theme=gruvbox)
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
  
 
