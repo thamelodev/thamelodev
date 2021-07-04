@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Julimar Melo
 
 ![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thamelodev&show_icons=true&theme=gruvbox)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!--
