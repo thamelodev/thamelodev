@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Julimar Melo
+## Hi everyone 👋
+
+I'm Julimar Melo, always learning new stuff.
 
 #### ![githubfollowers](https://img.shields.io/github/followers/thamelodev?logo=Github&style=social)
 
