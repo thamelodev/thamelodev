@@ -9,10 +9,10 @@ I'm Julimar Melo, always learning new stuff.
 
 <!--START_SECTION:waka-->
 ```text
-C++          7 hrs 24 mins   ██████████████░░░░░░░░░░░   56.59 % 
-TypeScript   1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-conf         58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-VimL         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-JavaScript   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+C++          7 hrs 24 mins   ████████████░░░░░░░░░░░░░   48.14 % 
+TypeScript   3 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.68 % 
+conf         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+VimL         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 <!--END_SECTION:waka-->
