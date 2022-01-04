@@ -9,10 +9,10 @@ I'm Julimar Melo, always learning new stuff.
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 7 mins    ██████████████▓░░░░░░░░░░   58.20 % 
-C            29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JSON         23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Makefile     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-conf         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+TypeScript   34 mins         ██████████▓░░░░░░░░░░░░░░   42.92 % 
+JSON         23 mins         ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+C            13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+conf         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 <!--END_SECTION:waka-->
