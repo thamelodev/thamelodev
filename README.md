@@ -9,6 +9,6 @@ I'm Julimar Melo, always learning new stuff.
 
 <!--START_SECTION:waka-->
 ```text
-
+JSON   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
