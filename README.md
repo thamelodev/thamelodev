@@ -9,10 +9,6 @@ I'm Julimar Melo, always learning new stuff.
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   7 hrs 19 mins   ████████████████████▓░░░░   82.61 % 
-CSS          50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-HTML         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+
 ```
 <!--END_SECTION:waka-->
