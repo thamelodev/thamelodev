@@ -8,7 +8,9 @@ I'm Julimar Melo, always learning new stuff.
 -  ⚙️ Learning Reverse Engineering
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
